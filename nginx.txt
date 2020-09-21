@@ -2,5 +2,8 @@
 
 http 
 {
-	server { listen 80;  }
+	server { listen 80;  }	
 } 
+
+# features such as proxy_pass, upstream, location will be added soon.
+  
