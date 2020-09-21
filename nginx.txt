@@ -1,0 +1,6 @@
+# current setting for the nginx server on AMI 2
+
+http 
+{
+	server { listen 80;  }
+} 
