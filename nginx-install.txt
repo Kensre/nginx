@@ -4,5 +4,3 @@ sudo nginx # start nginx
 sudo nginx -s reload # command to reload the nginx.conf after making changes to it
 # config files at /etc/nginx/nginx.conf
 # initial html.index file at /usr/share/nginx/html/index.html
-
-
